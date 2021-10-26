@@ -1,7 +1,12 @@
 ### Olá eu sou o Guilherme Martins
 
-- 🔭 Hoje o foco do meu trabalho é o full stack
-- 🌱 Estudando Typescript
+- Hoje o foco do meu trabalho é o Back-end.
+- Estudando 
+- C#
+- Phyton
+- VBA
+- HTML5
+- Javascript
 
 <div>
   <a href="https://github.com/guipmartins">
