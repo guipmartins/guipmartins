@@ -1,11 +1,10 @@
 ### Olá eu sou o Guilherme Martins
 
 - Hoje o foco do meu trabalho é o Back-end.
-- Estudando 
+- Atualmente Estudando 
 - C#
 - Phyton
-- VBA
-- HTML5
+- VBA/Selenium
 - Javascript
 
 <div>
