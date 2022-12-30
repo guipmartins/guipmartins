@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  ![b0d87353aed85f9b0f27da57ed4f99e4](https://user-images.githubusercontent.com/90425713/210085297-ebcee5e4-4142-47d2-b1fa-ee2ca098cf9e.gif)
   <a href="https://github.com/guipmartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guipmartins&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipmartins&layout=compact&langs_count=7&theme=aura"/>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guipmartins&theme=neon-palenight&hide_border=&locale=pt_BR)](https://git.io/streak-stats)
 </div>
 
  <div style="display: inline_block"><br>
@@ -32,11 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guipmartins&theme=neon-palenight&hide_border=&locale=pt_BR)](https://git.io/streak-stats)
-  
+
   ##
   
 <div> 
