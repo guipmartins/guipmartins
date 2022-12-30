@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   ##
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guipmartins)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Guilherme%20Martins&theme=neon-palenight&hide_border=falso&locale=pt_BR)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guipmartins&theme=neon-palenight&hide_border=&locale=pt_BR)](https://git.io/streak-stats) 
   
   ##
   
