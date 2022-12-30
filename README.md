@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![b0d87353aed85f9b0f27da57ed4f99e4](https://user-images.githubusercontent.com/90425713/210085297-ebcee5e4-4142-47d2-b1fa-ee2ca098cf9e.gif)
+
 <!--
 **guipmartins/guipmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
